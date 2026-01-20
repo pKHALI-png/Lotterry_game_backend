@@ -1,0 +1,15 @@
+{
+  "name": "lottery-backend",
+  "version": "1.0.0",
+  "description": "Backend for lottery game (1-100, choose 10 numbers)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "author": "Yasini Shaibu",
+  "license": "UNLICENSED"
+}
